@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreeAndPremium</string>
+    <string name="helloFree">Hello Free!</string>
+    <string name="helloUpgrade">Hello Premium!</string>
+</resources>
